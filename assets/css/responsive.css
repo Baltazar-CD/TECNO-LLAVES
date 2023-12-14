@@ -178,7 +178,7 @@
     right: -21px;
   }
 	.hero-section-two h1 {
-    font-size: 48px;
+    font-size: 38px;
 	}
   footer.two ul.image-gallery li {
     width: 15%;
@@ -1456,7 +1456,7 @@
     width: 100%;
   }
   .hero-section-two h1 {
-    font-size: 32px;
+    font-size: 27px;
   }
   .blog-two img {
     margin-right: 0;
@@ -1489,7 +1489,7 @@
     width: 68%;
 	}
 	h1 {
-    font-size: 34px;
+    font-size: 28px;
 	}
 }
 @media(max-width: 500px){
@@ -1884,7 +1884,7 @@
     font-size: 32px;
   }
   h1 {
-    font-size: 32px;
+    font-size: 28px;
   }
   .clientstyle1 p {
     font-size: 20px;
